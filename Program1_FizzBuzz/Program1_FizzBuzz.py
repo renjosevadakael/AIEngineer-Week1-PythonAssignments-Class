@@ -11,7 +11,6 @@ For every positive integer i from 1 to n, the function applies the following rul
 The program also prompts the user to enter a positive integer,
 validates the input, and calls the fizzbuzz function with the given value.
 """
-
 def fizzbuzz(n):
         if(n%3==0 and n%5==0):
             print("FizzBuzz")

@@ -7,6 +7,7 @@ This Python program implements a simple password retry mechanism.
 - If the correct password is entered within the allowed attempts, the program prints "Login Successful".
 - If all 3 attempts fail, the program prints "Account Locked".
 
+
 Requirements:
 - Store the correct password in a variable.
 - Use a loop (for or while) to allow 3 attempts.
