@@ -29,7 +29,7 @@ marks.remove(55)
 print(marks)
 
 #6. Sorting of the marks  
-marks.sort()
+marks.sort(reverse=True)
 print(marks)
 
     
