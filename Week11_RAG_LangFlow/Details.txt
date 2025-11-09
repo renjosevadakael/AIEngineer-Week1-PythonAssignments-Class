@@ -1,0 +1,40 @@
+https://www.mongodb.com/
+MongoDB: renju.joseph.jose@gmail.com
+RJCluster
+DatabaseUser
+UserName:renjujosephjose_db_user
+Password:Maruti@112025
+Current Ip:111.92.70.149
+Connection String: mongodb+srv://renjujosephjose_db_user:Maruti@112025@rjcluster.yknsymf.mongodb.net/?appName=RJCluster
+
+Database: db_testcases
+Collection name:test_cases
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Langflow Desktop 
+
+renju.joseph.jose@gmail.com
+
+http://localhost:7860
+
+C:\LangflowEnv\Scripts\activate.bat
+python -m langflow run
+++++++++++++
+
+Mistral AI Account Creation and API Key Creation
+
+https://console.mistral.ai/home
+
+renju.joseph.jose@gmail.com
+Organisation Id - 1316e695-15f9-4bef-af5b-e28ad5b716d4
+
+API Key - 3a6TaCyuox1KAJYg6mbqAyGZQZJdm3aa
+
+
+
+
+
+
+
+
